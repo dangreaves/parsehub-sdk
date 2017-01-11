@@ -9,5 +9,10 @@
             "email": "dan@dangreaves.com"
         }
     ],
-    "require": {}
+    "require": {},
+    "autoload": {
+        "psr-4": {
+            "DanGreaves\\ParseHub\\": "src/"
+        }
+    }
 }
