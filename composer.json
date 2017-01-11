@@ -9,7 +9,10 @@
             "email": "dan@dangreaves.com"
         }
     ],
-    "require": {},
+    "require": {
+        "guzzlehttp/guzzle": "^6.2",
+        "illuminate/support": "^5.3"
+    },
     "autoload": {
         "psr-4": {
             "DanGreaves\\ParseHub\\": "src/"
