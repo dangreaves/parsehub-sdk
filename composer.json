@@ -1,0 +1,13 @@
+{
+    "name": "dangreaves/parsehub-sdk",
+    "description": "Unofficial PHP SDK for ParseHub",
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Dan Greaves",
+            "email": "dan@dangreaves.com"
+        }
+    ],
+    "require": {}
+}
